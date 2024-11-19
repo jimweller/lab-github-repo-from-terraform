@@ -1,0 +1,7 @@
+github-repositories:
+  - name: test01
+    description: Test 1 Ignore
+  - name: test02
+    description: Test 2 Ignore
+  - name: test03
+    description: Test 3 Ignore
